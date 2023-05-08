@@ -1,4 +1,28 @@
 body
 {
-    background-color: aquamarine;
+    font-family: 'Crimson Text', serif;
+}
+h1
+{
+    font-size: 50px;
+}
+.hilight
+{
+    color:orange;
+}
+.bio
+{
+    font-family: 'Saira', sans-serif;
+}
+.half-width
+{
+    width: 40%;
+    float: left;
+    margin-top: 2%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img
+{
+    width: 100%;
 }

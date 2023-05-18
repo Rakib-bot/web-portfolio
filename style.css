@@ -2,10 +2,15 @@ body
 {
     margin: 0;
     font-family: 'Crimson Text', serif;
+
 }
 h1
 {
     font-size: 50px;
+}
+h2
+{
+    font-size: 30px;
 }
 .hilight
 {
@@ -14,6 +19,7 @@ h1
 .bio
 {
     font-family: 'Saira', sans-serif;
+    color: #89868a;
 }
 .half-width
 {
@@ -33,6 +39,12 @@ h1
     background-image: url("Image/top-banner.png");
     background-repeat: no-repeat;
 }
+.bottom-banner
+{
+    background-image:url("Image/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
 section
 {
     height: 500px;
@@ -44,7 +56,7 @@ section
     text-decoration: none;
     color: white;
     background-image:linear-gradient(45deg,lightsalmon,tomato);
-    padding: 5px 10px 5px 10px;
-    border-radius: 8px;
+    padding: 5px 15px 5px 15px;
+    border-radius: 6px;
    
 }

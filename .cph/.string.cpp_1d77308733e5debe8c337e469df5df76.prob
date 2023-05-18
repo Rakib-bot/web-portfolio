@@ -1,0 +1,1 @@
+{"name":"Local: string","url":"c:\\Web dev\\Project\\web-portfolio\\string.cpp","tests":[{"id":1683862990883,"input":"(1 * 2)*(2 / 3  * 3)","output":" 1 2*2 3 / 3**"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Web dev\\Project\\web-portfolio\\string.cpp","group":"local","local":true}

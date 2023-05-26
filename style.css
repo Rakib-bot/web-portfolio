@@ -60,6 +60,10 @@ section
     border-radius: 6px;
    
 }
+.Hire-button:hover
+{
+    background-image:linear-gradient(45deg,blue,cyan);
+}
 .block
 {
     box-shadow:10px 10px 40px gray;

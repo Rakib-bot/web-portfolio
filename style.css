@@ -12,7 +12,7 @@ h2
 {
     font-size: 30px;
 }
-.hilight
+.orange-highlight
 {
     color:orange;
 }
@@ -59,4 +59,36 @@ section
     padding: 5px 15px 5px 15px;
     border-radius: 6px;
    
+}
+.block
+{
+    box-shadow:10px 10px 40px gray;
+    border-radius: 10px;
+    height: 80%;
+}
+.Experience
+{
+    background-image: url(Image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#block-line1
+{
+    border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon,tomato);
+    border-image-slice: 1;
+    background-color: white;
+
+}
+#block-line2
+{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+footer p
+{
+    text-align: center;
+    font-size: 12px;
+    font:'Saira', sans-serif ;
 }
